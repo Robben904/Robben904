@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Gunjan, and I'm an IT Guy interested in Python & Backend stack!
 
 - 🔭 I’m currently working as freelancer
 - 🌱 I’m currently learning Django
